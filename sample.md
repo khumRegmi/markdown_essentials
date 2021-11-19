@@ -10,7 +10,7 @@
 
 _This text_ is italic
 
-_This text_ is itlaic
+_This text_ is also itlaic
 
 <!-- to make * as a text -->
 
