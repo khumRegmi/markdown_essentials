@@ -7,6 +7,7 @@
   while(alive){
   eat()
   ~~sleep()~~
+  \*~~This text~~\*
   code()
   }
 ```
