@@ -6,7 +6,9 @@
 ```javascript
   while(alive){
   eat()
-  ~sleep()~
+  ~~sleep()~~
   code()
   }
 ```
+
+
