@@ -5,11 +5,12 @@
 
 ```javascript
   while(alive){
-  eat()
-  ~~sleep()~~
-  \*~~This text~~\*
-  code()
+  eat();
+  //sleep();
+  code();
   }
 ```
+
+
 
 
